@@ -93,11 +93,27 @@ body {
     visibility: visible;
 }
 @media (max-width: 480px) {
-    .label {
-        top: 50%;
+    .nadpis {
+        font-size: 16px;
+        top: 26%;
     }
-    .serdce{
-        left: 35%;
-        top: 74%;
+    #arina {
+        width: 100px;
+        left: 2%;
+    }
+    #ola {
+        width: 100px;
+        left: 2%;
+    }
+    #dasha {
+        width: 100px;
+        left: 74%;
+    }
+    .serdce img {
+        width: 50px;
+    }
+    #cong{
+        width: 120px;
+        left: 38%;
     }
 }
